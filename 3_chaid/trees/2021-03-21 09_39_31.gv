@@ -1,0 +1,47 @@
+digraph {
+	graph [splines=ortho]
+	node [labelloc=b shape=plaintext]
+	0 [image="/tmp/tmp36nvuub7/node-0.png"]
+	1 [image="/tmp/tmp36nvuub7/node-1.png"]
+	0 -> 1 [xlabel="     (0)     
+ "]
+	2 [image="/tmp/tmp36nvuub7/node-2.png"]
+	1 -> 2 [xlabel="     (0)     
+ "]
+	3 [image="/tmp/tmp36nvuub7/node-3.png"]
+	2 -> 3 [xlabel="     (0)     
+ "]
+	4 [image="/tmp/tmp36nvuub7/node-4.png"]
+	2 -> 4 [xlabel="     (1, 2)     
+ "]
+	5 [image="/tmp/tmp36nvuub7/node-5.png"]
+	1 -> 5 [xlabel="     (1)     
+ "]
+	6 [image="/tmp/tmp36nvuub7/node-6.png"]
+	5 -> 6 [xlabel="     (0)     
+ "]
+	7 [image="/tmp/tmp36nvuub7/node-7.png"]
+	5 -> 7 [xlabel="     (1)     
+ "]
+	8 [image="/tmp/tmp36nvuub7/node-8.png"]
+	0 -> 8 [xlabel="     (1)     
+ "]
+	9 [image="/tmp/tmp36nvuub7/node-9.png"]
+	8 -> 9 [xlabel="     (0)     
+ "]
+	10 [image="/tmp/tmp36nvuub7/node-10.png"]
+	9 -> 10 [xlabel="     (0)     
+ "]
+	11 [image="/tmp/tmp36nvuub7/node-11.png"]
+	9 -> 11 [xlabel="     (1)     
+ "]
+	12 [image="/tmp/tmp36nvuub7/node-12.png"]
+	8 -> 12 [xlabel="     (1)     
+ "]
+	13 [image="/tmp/tmp36nvuub7/node-13.png"]
+	12 -> 13 [xlabel="     (0, 1)     
+ "]
+	14 [image="/tmp/tmp36nvuub7/node-14.png"]
+	12 -> 14 [xlabel="     (2)     
+ "]
+}
